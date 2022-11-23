@@ -18,7 +18,7 @@ namespace CourseWork.Controllers
             return View();
         }
 
-        public IActionResult Privac2y()
+        public IActionResult Privacy()
         {
             return View();
         }
